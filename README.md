@@ -10,3 +10,8 @@ Desktop GitHubでブランチを作成し、編集しています。
 プッシュがいつ行われているのか確認するため、練習用に追加で編集しています。
 →Publish Branchするとリモート側に反映される
 　その後、Pull Requestが可能になる。
+
+→Create Pull Requestせずに再編集した場合、リモート側に反映させるために
+　push originボタンを押す
+　その後、Pull Requestが可能になる。
+
